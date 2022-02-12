@@ -1,1 +1,2 @@
-web: $ php index.php
+web: @echo OFF
+"C:\php\php.exe" index.php %*
